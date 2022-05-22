@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
+p.card-text {
+  text-align: left;
+  font-size: 1.2500rem;
+}
+p.desc {
+  font-size: 1.4583rem;
+  font-weight: bold;
+  padding-bottom: 3rem;
+  text-align: center;
+}
+.card-header h6{
+  margin: 0;
+  font-size: 1.3542rem;
+  padding: 1rem;
+}
