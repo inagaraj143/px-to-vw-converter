@@ -1,6 +1,6 @@
 {
   "name": "px-to-vw-converter",
-  "version": "0.1.0",
+  "version": "1.1.0",
   "private": true,
   "homepage": "https://inagaraj143.github.io/px-to-vw-converter",
   "dependencies": {

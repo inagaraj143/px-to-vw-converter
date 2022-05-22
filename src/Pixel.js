@@ -134,7 +134,7 @@ class Pixel extends React.Component {
                         <div className="collapse navbar-collapse" id="navbarText">
                             <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                                 <li className="nav-item">
-                                    <a className="nav-link active" aria-current="page" href="github.com/">Github</a>
+                                    <a className="nav-link active" aria-current="page" rel="noreferrer" target="_blank" href="https://github.com/inagaraj143/px-to-vw-converter">Github</a>
                                 </li>
                             </ul>
                         </div>
